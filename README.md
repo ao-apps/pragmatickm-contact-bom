@@ -27,6 +27,7 @@ Bill of Materials (BOM) for contacts nested within [SemanticCMS](https://github.
 * [GitHub](https://github.com/aoindustries/pragmatickm-contact-bom)
 
 ## Managed Dependencies
+* [PragmaticKM Contact All](https://github.com/aoindustries/pragmatickm-contact-all)
 * [PragmaticKM Contact Model](https://github.com/aoindustries/pragmatickm-contact-model)
 * [PragmaticKM Contact Servlet](https://github.com/aoindustries/pragmatickm-contact-servlet)
 * [PragmaticKM Contact Style](https://github.com/aoindustries/pragmatickm-contact-style)
