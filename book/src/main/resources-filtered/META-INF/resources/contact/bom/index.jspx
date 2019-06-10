@@ -34,6 +34,7 @@ along with pragmatickm-contact-bom.  If not, see <http://www.gnu.org/licenses />
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2019-06-09T17:05:50-0500"
+		dateModified="2019-06-10T02:25:32-0500"
 	>
 		<core:child page="changelog" />
 		<header>
@@ -59,6 +60,7 @@ along with pragmatickm-contact-bom.  If not, see <http://www.gnu.org/licenses />
 		</section:nav>
 		<section:section label="Managed Dependencies">
 			<ul>
+				<li><core:link book="/contact/all" page="/" /></li>
 				<li><core:link book="/contact/model" page="/" /></li>
 				<li><core:link book="/contact/renderer/html" page="/" /></li>
 				<li><core:link book="/contact/servlet" page="/" /></li>
