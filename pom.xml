@@ -134,10 +134,10 @@ along with pragmatickm-contact-bom.  If not, see <http://www.gnu.org/licenses />
 				<scope>import</scope>
 			</dependency>
 			<dependency>
-				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-taglib</artifactId><version>1.6.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
+				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-taglib</artifactId><version>1.6.0${POST-SNAPSHOT}</version>
 			</dependency>
 			<dependency>
-				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-taglib</artifactId><version>1.6.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
+				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-taglib</artifactId><version>1.6.0${POST-SNAPSHOT}</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
