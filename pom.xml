@@ -39,7 +39,7 @@ along with pragmatickm-contact-bom.  If not, see <https://www.gnu.org/licenses/>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
-  <name>PragmaticKM Contact BOM²</name>
+  <name>PragmaticKM Contact BOM</name>
   <url>https://pragmatickm.com/contact/bom/</url>
   <description>Bill of Materials (BOM) for contacts nested within SemanticCMS pages and elements.</description>
   <inceptionYear>2019</inceptionYear>
