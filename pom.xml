@@ -32,9 +32,6 @@ along with pragmatickm-contact-bom.  If not, see <https://www.gnu.org/licenses/>
   <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-contact-bom</artifactId><version>1.5.2-POST-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <properties>
-  </properties>
-
   <name>PragmaticKM Contact BOM</name>
   <url>https://pragmatickm.com/contact/bom/</url>
   <description>Bill of Materials (BOM) for contacts nested within SemanticCMS pages and elements.</description>
