@@ -19,7 +19,7 @@ Bill of Materials (BOM) for contacts nested within [SemanticCMS](https://github.
 ## Project Links
 * [Project Home](https://pragmatickm.com/contact/bom/)
 * [Changelog](https://pragmatickm.com/contact/bom/changelog)
-* [Maven Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-contact-bom)
+* [Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-contact-bom)
 * [GitHub](https://github.com/ao-apps/pragmatickm-contact-bom)
 
 ## Managed Dependencies
