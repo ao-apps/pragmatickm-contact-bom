@@ -6,13 +6,13 @@
 [![semantic versioning: 2.0.0](https://pragmatickm.com/ao-badges/semver-2.0.0.svg)](https://semver.org/spec/v2.0.0.html)
 [![license: LGPL v3](https://pragmatickm.com/ao-badges/license-lgpl-3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-[![Build](https://github.com/ao-apps/pragmatickm-contact-bom/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/ao-apps/pragmatickm-contact-bom/actions?query=workflow%3ABuild)
+[![Build](https://github.com/ao-apps/pragmatickm-contact-bom/actions/workflows/build.yml/badge.svg?branch=alpha)](https://github.com/ao-apps/pragmatickm-contact-bom/actions?query=workflow%3ABuild)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.pragmatickm/pragmatickm-contact-bom/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.pragmatickm/pragmatickm-contact-bom)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=alert_status)](https://sonarcloud.io/dashboard?branch=master&id=com.pragmatickm%3Apragmatickm-contact-bom)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=ncloc)](https://sonarcloud.io/component_measures?branch=master&id=com.pragmatickm%3Apragmatickm-contact-bom&metric=ncloc)  
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=reliability_rating)](https://sonarcloud.io/component_measures?branch=master&id=com.pragmatickm%3Apragmatickm-contact-bom&metric=Reliability)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=security_rating)](https://sonarcloud.io/component_measures?branch=master&id=com.pragmatickm%3Apragmatickm-contact-bom&metric=Security)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=sqale_rating)](https://sonarcloud.io/component_measures?branch=master&id=com.pragmatickm%3Apragmatickm-contact-bom&metric=Maintainability)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?branch=alpha&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=alert_status)](https://sonarcloud.io/dashboard?branch=alpha&id=com.pragmatickm%3Apragmatickm-contact-bom)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?branch=alpha&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=ncloc)](https://sonarcloud.io/component_measures?branch=alpha&id=com.pragmatickm%3Apragmatickm-contact-bom&metric=ncloc)  
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?branch=alpha&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=reliability_rating)](https://sonarcloud.io/component_measures?branch=alpha&id=com.pragmatickm%3Apragmatickm-contact-bom&metric=Reliability)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?branch=alpha&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=security_rating)](https://sonarcloud.io/component_measures?branch=alpha&id=com.pragmatickm%3Apragmatickm-contact-bom&metric=Security)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?branch=alpha&project=com.pragmatickm%3Apragmatickm-contact-bom&metric=sqale_rating)](https://sonarcloud.io/component_measures?branch=alpha&id=com.pragmatickm%3Apragmatickm-contact-bom&metric=Maintainability)
 
 Bill of Materials (BOM) for contacts nested within [SemanticCMS](https://github.com/ao-apps/semanticcms) pages and elements.
 
